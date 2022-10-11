@@ -1,6 +1,6 @@
 - 👋 Hey, I’m Er. Piyush Chandra Mathur
 - 👀 I’m love Web Application Development
-- 🌱 I’m a Software Engineer Trainee at Wittypen currently
+- 🌱 I’m a Software Development Trainee at Wittypen currently
 - 💞️ I’m like to collaborate on projects built using PERN or MERN Stack or using Laravel and VueJS
 - 📫 Wanna reach me? Hit the link!!!! -> https://digital-resume-lovat.vercel.app/
 
